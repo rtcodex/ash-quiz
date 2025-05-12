@@ -1,6 +1,11 @@
 // Store questions and answers
 const questions = [
     {
+        question: "You love things that sometimes hurt you - like water, even though you're allergic to it. Still, you find peace sitting by the ghat, feet touching the river… So I just want to ask - could you ever love me like that too? A love that stays, even when it stings… a love that chooses to stay, no matter what? (Yes/No)",
+        answer: "",
+        type: "textarea"
+    },
+    {
         question: "Will you spend the rest of your life with me, filled with love, devotion, and togetherness? (Yes/No)",
         answer: "",
         type: "textarea"
